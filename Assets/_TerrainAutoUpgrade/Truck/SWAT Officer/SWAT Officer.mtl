@@ -1,0 +1,207 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+# Multi/Sub Material__46 (2) to come 
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+# Multi/Sub Material__46 done 
+#
+# Multi/Sub Material__57 (2) to come 
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__57 done 
+#
+# Multi/Sub Material__68 (2) to come 
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+# Multi/Sub Material__68 done 
+#
+# Multi/Sub Material__79 (2) to come 
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__79 done 
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+# Multi/Sub Material__90 (2) to come 
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+# Multi/Sub Material__90 done 
+#
+# Multi/Sub material2-effect (3) to come 
+#
+newmtl material2-effect
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  2.9
+illum 2
+map_Kd texture1.JPG
+#
+newmtl Material__115
+Ka  0.2 0.2 0.2
+Kd  0.2 0.2 0.2
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  5.2
+illum 2
+map_Kd texture0.JPG
+#
+newmtl Material__116
+Ka  0.1 0.1 0.1
+Kd  0.1 0.1 0.1
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  0.0
+illum 2
+#
+# Multi/Sub material2-effect done 
+#
+newmtl material1-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture1.JPG
+#
+# Multi/Sub Material__112 (2) to come 
+#
+newmtl material0-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+map_Kd texture0.JPG
+#
+newmtl FrontColorNoCulling-effect
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 1.0
+Ks  0.3 0.3 0.3
+d  0.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Material__112 done 
+#
+newmtl 02_-_Default
+Ka  0.6 0.6 0.6
+Kd  0.6 0.6 0.6
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  9.7
+illum 2
+map_Kd texture2.JPG
+#
+# EOF
