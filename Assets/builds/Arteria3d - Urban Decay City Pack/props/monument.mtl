@@ -1,0 +1,15 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.18
+# Time: Fri Oct 09 13:40:22 2009
+# num_materials: 1
+
+newmtl monument
+Ka 0.000000 0.000000 0.000000
+Kd 0.992157 0.992157 0.992157
+Ks 0.992157 0.992157 0.992157
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd monument.dds
+
+# num_materials: 1

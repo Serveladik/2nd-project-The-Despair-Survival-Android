@@ -1,0 +1,24 @@
+newmtl 01___Default
+Ka 0 0 0
+Kd 0.5882 0.5882 0.5882
+Ks 0.15 0.15 0.15
+Ni 1.5
+Ns 250
+Tf 1 1 1
+d 1
+map_Kd set1_d.bmp
+map_bump set1_n.bmp
+bump set1_n.bmp
+
+newmtl orig_01___Default
+Ka 0 0 0
+Kd 0.5882 0.698 0.7765
+Ks 0.15 0.15 0.15
+Ni 1.5
+Ns 150
+Tf 1 1 1
+d 1
+map_Kd set2_d.bmp
+map_bump set2_n.bmp
+bump set2_n.bmp
+

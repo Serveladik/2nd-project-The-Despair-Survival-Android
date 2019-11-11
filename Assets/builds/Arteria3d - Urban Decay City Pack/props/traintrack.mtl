@@ -1,0 +1,15 @@
+# Wavefront MTL file
+# Creator: Ultimate Unwrap3D Pro v3.18
+# Time: Fri Oct 09 13:43:02 2009
+# num_materials: 1
+
+newmtl traintrack
+Ka 0.000000 0.000000 0.000000
+Kd 0.956863 1.000000 0.996078
+Ks 1.000000 1.000000 1.000000
+d 1.000000
+illum 2
+Ns 1.000000
+map_Kd traintrack.dds
+
+# num_materials: 1
