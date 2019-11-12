@@ -1,2 +1,0 @@
-OgreXmlConverter.exe energiebox_mesh.xml energiebox.mesh
-OgreXmlConverter.exe energiebox_skeleton.xml energiebox.skeleton
